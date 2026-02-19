@@ -1,3 +1,5 @@
+# Codes By Vision
+
 """
 SafeDrop Configuration
 Central configuration constants for the SafeDrop application.
@@ -110,3 +112,4 @@ APP_NAME = "SafeDrop"
 APP_VERSION = "1.0.0"
 APP_AUTHOR = "Vision KC"
 APP_TAGLINE = "Secure. Simple. Shareable."
+
