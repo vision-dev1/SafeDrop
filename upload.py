@@ -1,3 +1,5 @@
+# Codes By Vision
+
 """
 SafeDrop Upload Flow
 Orchestrates the complete file upload process:
@@ -162,3 +164,4 @@ def _format_size(size_bytes: int) -> str:
         return f"{size_bytes / 1024**2:.1f} MB"
     else:
         return f"{size_bytes / 1024**3:.2f} GB"
+
