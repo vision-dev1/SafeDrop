@@ -11,5 +11,5 @@ SafeDrop is a clean and minimal file-sharing web app that lets users quickly upl
 
 ## Author
 Vision KC<br>
-[Github](https://github.com/vision-dev1)
+[Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
