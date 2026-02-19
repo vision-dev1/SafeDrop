@@ -1,3 +1,5 @@
+# Codes By Vision
+
 """
 SafeDrop Logger
 Centralized logging for uploads, downloads, and errors.
@@ -43,3 +45,4 @@ def get_logger(name: str = APP_NAME) -> logging.Logger:
 
 # Module-level logger instance
 log = get_logger()
+
