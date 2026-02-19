@@ -1,3 +1,5 @@
+# Codes By Vision
+
 """
 SafeDrop Storage Manager
 Handles secure file storage: encrypting files on upload and decrypting on download.
@@ -202,3 +204,4 @@ def get_stored_size(file_id: str) -> Optional[int]:
     if path:
         return path.stat().st_size
     return None
+
