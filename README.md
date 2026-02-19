@@ -10,6 +10,6 @@ SafeDrop is a clean and minimal file-sharing web app that lets users quickly upl
 - Lightweight and easy to deploy
 
 ## Author
-Vision KC
+Vision KC<br>
 [Github]
 [Portfolio]
