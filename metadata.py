@@ -1,3 +1,5 @@
+# Codes By Vision
+
 """
 SafeDrop Metadata Manager
 Manages the JSON metadata store for all uploaded files.
@@ -156,3 +158,4 @@ def cleanup_expired() -> int:
             _save(data)
 
     return removed
+
