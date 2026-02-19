@@ -1,3 +1,4 @@
+# Codes By Visionnn
 """
 SafeDrop Entry Point
 Initializes the application, runs startup tasks, and manages the main menu loop.
@@ -94,3 +95,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
