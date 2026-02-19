@@ -1,3 +1,5 @@
+# Codes By Vision
+
 """
 SafeDrop Crypto Module
 Handles symmetric file encryption and decryption using Fernet (AES-128-CBC + HMAC-SHA256).
@@ -96,3 +98,4 @@ def decrypt_file(src_path: Path, dest_path: Path, key_str: str) -> None:
         f.write(plaintext)
 
     log.debug(f"Decryption complete. Decrypted size: {len(plaintext):,} bytes")
+
