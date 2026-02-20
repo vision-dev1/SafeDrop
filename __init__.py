@@ -1,1 +1,0 @@
-# SafeDrop Tests Package
