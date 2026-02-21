@@ -3,7 +3,7 @@
 > **Secure. Simple. Shareable.**  
 > A command-line file sharing tool with built-in malware scanning and encryption.
 
-Developed by **Vision KC**
+Developed by **[Vision KC](https://visionkc.com.np)**
 
 ---
 
@@ -197,5 +197,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 **Vision KC**  
 [Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
+
 
 
