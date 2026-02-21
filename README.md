@@ -195,4 +195,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **Vision KC**  
-SafeDrop v1.0.0
+[Github](https://github.com/vision-dev1)
+[Portfolio](https://visionkc.com.np)
+
