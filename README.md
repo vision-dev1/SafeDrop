@@ -195,6 +195,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **Vision KC**  
-[Github](https://github.com/vision-dev1)
+[Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
+
 
