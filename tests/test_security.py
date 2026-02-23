@@ -1,6 +1,4 @@
-"""
-Tests for security
-"""
+# Codes By Visionnn
 
 import os
 import struct
@@ -217,3 +215,4 @@ class TestScanFile:
             assert is_safe is False
         finally:
             p.unlink()
+
