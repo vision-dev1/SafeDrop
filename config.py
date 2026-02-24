@@ -1,7 +1,4 @@
-"""
-SafeDrop Configuration
-Central configuration constants for the SafeDrop application.
-"""
+# Codes By Visionnn
 
 import os
 from pathlib import Path
@@ -110,3 +107,4 @@ APP_NAME = "SafeDrop"
 APP_VERSION = "1.0.0"
 APP_AUTHOR = "Vision KC"
 APP_TAGLINE = "Secure. Simple. Shareable."
+
