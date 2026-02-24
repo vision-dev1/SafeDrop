@@ -1,7 +1,4 @@
-"""
-SafeDrop Entry Point
-Initializes the application, runs startup tasks, and manages the main menu loop.
-"""
+# Codes By Visionnn
 
 import sys
 from pathlib import Path
@@ -94,3 +91,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
