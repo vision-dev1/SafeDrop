@@ -1,7 +1,4 @@
-"""
-SafeDrop CLI Interface
-Renders the banner, menus, and styled terminal output using Rich.
-"""
+# Codes By Visionnn
 
 from datetime import datetime
 from pathlib import Path
@@ -268,3 +265,4 @@ def _format_size(size_bytes: int) -> str:
         return f"{size_bytes / 1024**2:.1f} MB"
     else:
         return f"{size_bytes / 1024**3:.2f} GB"
+
