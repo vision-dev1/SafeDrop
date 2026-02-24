@@ -1,7 +1,4 @@
-"""
-SafeDrop ID Generator
-Generates cryptographically secure, collision-resistant unique file IDs.
-"""
+# Codes By Visionnn
 
 import secrets
 import string
@@ -59,3 +56,4 @@ def is_valid_id_format(file_id: str) -> bool:
         return False
     valid_chars = set(_ALPHABET)
     return all(c in valid_chars for c in normalized)
+
