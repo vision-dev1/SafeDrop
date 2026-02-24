@@ -1,3 +1,5 @@
+# Codes by Visionnn
+
 """
 SafeDrop Security Scanner
 Scans files for malicious content before allowing upload.
@@ -153,3 +155,4 @@ def scan_file(filepath: Path) -> ScanResult:
 
     log.info(f"File '{filepath.name}' passed all security checks.")
     return True, ""
+
